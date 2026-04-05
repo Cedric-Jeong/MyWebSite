@@ -3,8 +3,8 @@
 //  React + Tailwind CSS + 백엔드 AI 요약 연동
 //
 //  설치 방법:
-//    npx create-react-app soboro-frontend
-//    cd soboro-frontend
+//    npx create-react-app cedric-frontend
+//    cd cedric-frontend
 //    npm install
 //    npm start
 //
