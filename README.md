@@ -1,4 +1,4 @@
-# 🌿 소보로 일기 — 풀스택 설치 가이드
+# 🌿 Cedric 일기 — 풀스택 설치 가이드
 
 AI 요약 기능이 포함된 개인 성장 일기 플랫폼입니다.
 
@@ -23,7 +23,7 @@ cedric-frontend/         ← 프론트엔드 (별도 폴더)
 
 ```bash
 # 백엔드 폴더로 이동
-cd soboro-journal
+cd cedric-journal
 
 # 패키지 설치
 npm install
@@ -48,7 +48,7 @@ npm run dev
 npm start
 ```
 
-✅ 터미널에 `소보로 서버 실행 중: http://localhost:4000` 출력되면 성공
+✅ 터미널에 `Cedric 서버 실행 중: http://localhost:4000` 출력되면 성공
 
 ---
 
@@ -56,8 +56,8 @@ npm start
 
 ```bash
 # React 앱 생성 (처음 한 번만)
-npx create-react-app soboro-frontend
-cd soboro-frontend
+npx create-react-app cedric-frontend
+cd cedric-frontend
 
 # App.jsx 교체
 # src/App.jsx 파일을 제공된 코드로 교체하세요
